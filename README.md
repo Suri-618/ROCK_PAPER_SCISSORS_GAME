@@ -58,11 +58,11 @@ ROCK_PAPER_SCISSORS_GAME/
 
 **You can extend this game by:**
 
-✔ Adding Player vs Computer mode
-✔ Using random module for computer choices
-✔ Adding score tracker
-✔ Front-end UI using Tkinter
-✔ Store player stats in a file
+**✔ Adding Player vs Computer mode**
+**✔ Using random module for computer choices**
+**✔ Adding score tracker**
+**✔ Front-end UI using Tkinter**
+**✔ Store player stats in a file**
 
 ## 👨‍💻 Author
 
