@@ -54,7 +54,7 @@ ROCK_PAPER_SCISSORS_GAME/
 **```bash**
 **python "rock paper scissors game.py"**
 
-##🔥 Future Enhancements
+## 🔥 Future Enhancements
 
 **You can extend this game by:**
 
@@ -64,7 +64,12 @@ ROCK_PAPER_SCISSORS_GAME/
 ✔ Front-end UI using Tkinter
 ✔ Store player stats in a file
 
-##👨‍💻 Author
+## 👨‍💻 Author
+
+Suri
+GitHub: https://github.com/Suri-618
+
+⭐ If you enjoy this project, give it a star!
 
 **Suri**
 GitHub: https://github.com/Suri-618
